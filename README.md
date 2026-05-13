@@ -20,3 +20,5 @@ Following the framework of **Phonetic Data Analysis (Ladefoged, 2003)**, this pr
 * **Environment:** VS Code + Jupyter Notebook## 1. Project Overview
 This project focuses on the acoustic realization of **Azerbaijani word stress** and its phonetic patterns. As a student currently conducting research in Baku, Azerbaijan, I aim to develop a Python-based automated pipeline to extract acoustic features (F0, duration, intensity) to detect stress positions.
 
+## About Me
+I am currently a senior student at Beijing Foreign Studies University, majoring in Azerbaijani language. I am also an exchange student at Khazar University in Baku for the 2025/2026 academic year, supported by the China Scholarship Council (CSC). My research focus is on Second Language Acquisition and Experimental Phonetics.

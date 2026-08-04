@@ -1,0 +1,4 @@
+﻿Metric,Native Shapiro (p),Learner Shapiro (p),Levene Test (p),Recommended Inferential Test
+Syllable Duration Ratio,0.0000 (Non-norm),0.0000 (Non-norm),0.8256 (Equal),Non-parametric: Mann-Whitney U test
+Relative Mean Intensity (dB),0.3062 (Norm),0.8334 (Norm),0.0424 (Unequal),Parametric: Welch's t-test
+Relative Pitch Difference (Semitones),0.0000 (Non-norm),0.0165 (Non-norm),0.1164 (Equal),Non-parametric: Mann-Whitney U test

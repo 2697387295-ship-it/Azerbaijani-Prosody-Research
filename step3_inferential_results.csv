@@ -1,0 +1,4 @@
+﻿Metric,Statistical Test,Test Statistic,p-value,Significance,Effect Size
+Syllable Duration Ratio,Mann-Whitney U test,U = 3660.00 (Z = -2.88),0.0040,** (p < 0.01),r = 0.205
+Relative Mean Intensity (dB),Welch's t-test,t = 0.626,0.5320,ns (p >= 0.05),Cohen's d = -0.089
+Relative Pitch Difference (Semitones),Mann-Whitney U test,U = 2841.00 (Z = -4.94),0.0000,*** (p < 0.001),r = 0.353
